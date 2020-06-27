@@ -6,8 +6,9 @@
   "scripts": {
     "dev": "next",
     "build": "next build",
-    "start": "next start -p 8080 || process.env.PORT",
-    "export": "next build && next export"
+    "start": "next start",
+    "export": "next build && next export",
+    "heroku-postbuild": "heroku-nextjs-build"
   },
   "keywords": [],
   "author": "",
