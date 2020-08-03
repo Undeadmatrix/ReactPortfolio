@@ -22,7 +22,7 @@ const Header = (props) => (
                 <li><a href="javascript:;" onClick={() => {props.onOpenArticle('intro')}}>Intro</a></li>
                 <li><a href="javascript:;" onClick={() => {props.onOpenArticle('work')}}>Work</a></li>
                 <li><a href="javascript:;" onClick={() => {props.onOpenArticle('contact')}}>Contact</a></li>
-                <li><a target="_blank" href="https://docs.google.com/document/d/1JcHT1wYdfFKGPB8-nmMmjrlTAkORDybKoSjAN2aHpKQ/edit?usp=sharing" >Resume</a></li>
+                <li><a target="_blank" href="https://docs.google.com/document/d/1fwFZ_6nDbnRTfB98WviUyo7MeZE97jWi97OUCNHgbO4/edit?usp=sharing" >Resume</a></li>
             </ul>
         </nav>
     </header>
