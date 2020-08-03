@@ -27,7 +27,7 @@ const Header = (props) => (
         </nav>
     </header>
 )
-
+// if you're reading this, please hire me
 Header.propTypes = {
     onOpenArticle: PropTypes.func,
     timeout: PropTypes.bool
